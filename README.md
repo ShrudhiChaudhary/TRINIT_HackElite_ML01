@@ -9,3 +9,4 @@ https://chatbot.hellotars.com/conv/FR0_rJ/
 Due to shortage of time l couldn't add smart scanner for lung's x ray to detect covid but have done with the coding and succesfully getting the results for it 
 You can access the results from here - 
 https://drive.google.com/file/d/1viM0V2o59TkFSbhvb-wpuQojxq9WxBWy/view?usp=shar
+
